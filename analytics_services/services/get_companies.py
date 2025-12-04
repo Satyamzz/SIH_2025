@@ -1,12 +1,14 @@
+import sys, os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
 from fastapi import APIRouter
-from demo_data import get_demo_data
+from demo_data.alumni_data import get_demo_data
 
 router = APIRouter()
 
 @router.get("/analytics/company")
 def get_company_distribution():
-    data = get_demo_data()          
+    data=get_demo_data()
     alumni = data["alumni"]         
     company_counts = {}
     for person in alumni:
