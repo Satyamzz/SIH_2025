@@ -1,15 +1,16 @@
 from fastapi import FastAPI
-from analytics_services.services.get_companies import router as company_router
-from analytics_services.services.get_batch import router as year_router
-from analytics_services.services.filter_skills import router as skills_filter_router
-from analytics_services.services.filter_year import router as graduation_year_filter_route
-from analytics_services.services.filter_job_location import router as job_location_filter_route
-from analytics_services.services.skill_stats import router as skill_stats_route
-from analytics_services.services.get_locations import router as location_router
-from analytics_services.services.filter_companies import router as filter_company_router
-from analytics_services.services.get_branch_distribution import router as batch_dist
-from analytics_services.services.summarize import router as summary
+from analytics_services.admin_side.get_companies import router as company_router
+from analytics_services.admin_side.get_batch import router as year_router
+from analytics_services.admin_side.filter_skills import router as skills_filter_router
+from analytics_services.admin_side.filter_year import router as graduation_year_filter_route
+from analytics_services.admin_side.filter_job_location import router as job_location_filter_route
+from analytics_services.admin_side.skill_stats import router as skill_stats_route
+from analytics_services.admin_side.get_locations import router as location_router
+from analytics_services.admin_side.filter_companies import router as filter_company_router
+from analytics_services.admin_side.get_branch_distribution import router as batch_dist
+from analytics_services.admin_side.summarize import router as summary
 from recommendation_system.skill_rec_emb import router as skill_recommendation
+from analytics_services.common.skills_from_description import router as skill_extract
 app = FastAPI()
 
 # include the router
@@ -24,3 +25,4 @@ app.include_router(filter_company_router)
 app.include_router(batch_dist)
 app.include_router(summary)
 app.include_router(skill_recommendation)
+app.include_router(skill_extract)

@@ -1,8 +1,12 @@
-fastapi
-numpy
-pandas
-pydantic
-re
-spacy
+fastapi==0.104.1
+uvicorn==0.24.0
+numpy==1.24.3
+pandas==2.0.3
+pydantic==2.4.0
+spacy==3.7.2
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
-chromadb sentence-transformers
+chromadb==0.4.21
+sentence-transformers==2.2.2
+flask==2.3.3
+flask-cors==4.0.0
+scikit-learn==1.3.2
