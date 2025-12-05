@@ -1,4 +1,5 @@
-def get_demo_data():
+
+def get_demo():
     return {
         "alumni": [
             {
