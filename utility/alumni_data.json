@@ -1,0 +1,843 @@
+{
+    "success": true,
+    "data": [
+        {
+            "_id": "69347b093f47d0ab2b3e9ca9",
+            "name": "Rohan Verma",
+            "email": "rohan.verma0@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:49.193Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b093f47d0ab2b3e9cab",
+                "userId": "69347b093f47d0ab2b3e9ca9",
+                "verified": true,
+                "graduationYear": 2023,
+                "degreeUrl": "https://drive.google.com/degree/69347b093f47d0ab2b3e9ca9",
+                "skills": [
+                    "AWS",
+                    "React",
+                    "MongoDB",
+                    "Node.js",
+                    "Python"
+                ],
+                "degree": "B.Tech",
+                "department": "Mechanical",
+                "enrollmentNumber": "CIV2023001",
+                "employmentStatus": "employed",
+                "currentCompany": "JP Morgan",
+                "designation": "Product Manager",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/rohanverma",
+                "github": "https://github.com/rohan0",
+                "location": {
+                    "city": "Ahmedabad",
+                    "state": "Gujarat",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 23.0225,
+                        "lng": 72.5714
+                    }
+                },
+                "phone": "9862401170",
+                "profileCompletion": 86,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b093f47d0ab2b3e9cae",
+            "name": "Aditya Chatterjee",
+            "email": "aditya.chatterjee1@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:49.393Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b093f47d0ab2b3e9cb0",
+                "userId": "69347b093f47d0ab2b3e9cae",
+                "verified": true,
+                "graduationYear": 2020,
+                "degreeUrl": "https://drive.google.com/degree/69347b093f47d0ab2b3e9cae",
+                "skills": [
+                    "Python",
+                    "SQL"
+                ],
+                "degree": "MBA",
+                "department": "Civil",
+                "enrollmentNumber": "ELE2020002",
+                "employmentStatus": "employed",
+                "currentCompany": "Deloitte",
+                "designation": "Architect",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/adityachatterjee",
+                "github": "https://github.com/aditya1",
+                "location": {
+                    "city": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 22.5726,
+                        "lng": 88.3639
+                    }
+                },
+                "phone": "9853681387",
+                "profileCompletion": 72,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b093f47d0ab2b3e9cb3",
+            "name": "Rahul Singh",
+            "email": "rahul.singh2@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:49.588Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b093f47d0ab2b3e9cb5",
+                "userId": "69347b093f47d0ab2b3e9cb3",
+                "verified": true,
+                "graduationYear": 2019,
+                "degreeUrl": "https://drive.google.com/degree/69347b093f47d0ab2b3e9cb3",
+                "skills": [
+                    "Java",
+                    "Python",
+                    "JavaScript",
+                    "SQL",
+                    "Docker",
+                    "MongoDB"
+                ],
+                "degree": "Ph.D",
+                "department": "Electronics",
+                "enrollmentNumber": "CIV2019003",
+                "employmentStatus": "employed",
+                "currentCompany": "Amazon",
+                "designation": "Founder",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/rahulsingh",
+                "github": "https://github.com/rahul2",
+                "location": {
+                    "city": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 19.076,
+                        "lng": 72.8777
+                    }
+                },
+                "phone": "9848488204",
+                "profileCompletion": 86,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b093f47d0ab2b3e9cb8",
+            "name": "Arjun Pillai",
+            "email": "arjun.pillai3@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:49.787Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b093f47d0ab2b3e9cba",
+                "userId": "69347b093f47d0ab2b3e9cb8",
+                "verified": false,
+                "graduationYear": 2022,
+                "degreeUrl": "https://drive.google.com/degree/69347b093f47d0ab2b3e9cb8",
+                "skills": [
+                    "Kubernetes",
+                    "Machine Learning",
+                    "React"
+                ],
+                "degree": "MBA",
+                "department": "IT",
+                "enrollmentNumber": "IT2022004",
+                "employmentStatus": "employed",
+                "currentCompany": "JP Morgan",
+                "designation": "Software Engineer",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/arjunpillai",
+                "github": "https://github.com/arjun3",
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 13.0827,
+                        "lng": 80.2707
+                    }
+                },
+                "phone": "9848850559",
+                "profileCompletion": 85,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b093f47d0ab2b3e9cbd",
+            "name": "Vikram Mishra",
+            "email": "vikram.mishra4@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:49.985Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0a3f47d0ab2b3e9cbf",
+                "userId": "69347b093f47d0ab2b3e9cbd",
+                "verified": true,
+                "graduationYear": 2019,
+                "degreeUrl": "https://drive.google.com/degree/69347b093f47d0ab2b3e9cbd",
+                "skills": [
+                    "Machine Learning",
+                    "Kubernetes",
+                    "Node.js"
+                ],
+                "degree": "MBA",
+                "department": "IT",
+                "enrollmentNumber": "CIV2019005",
+                "employmentStatus": "employed",
+                "currentCompany": "TCS",
+                "designation": "Data Scientist",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/vikrammishra",
+                "github": "https://github.com/vikram4",
+                "location": {
+                    "city": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 28.6139,
+                        "lng": 77.209
+                    }
+                },
+                "phone": "9842155540",
+                "profileCompletion": 94,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0a3f47d0ab2b3e9cc2",
+            "name": "Aditya Patel",
+            "email": "aditya.patel5@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:50.180Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0a3f47d0ab2b3e9cc4",
+                "userId": "69347b0a3f47d0ab2b3e9cc2",
+                "verified": true,
+                "graduationYear": 2018,
+                "degreeUrl": "https://drive.google.com/degree/69347b0a3f47d0ab2b3e9cc2",
+                "skills": [
+                    "Machine Learning",
+                    "AWS",
+                    "Java",
+                    "JavaScript"
+                ],
+                "degree": "M.Tech",
+                "department": "Electronics",
+                "enrollmentNumber": "MEC2018006",
+                "employmentStatus": "employed",
+                "currentCompany": "Google",
+                "designation": "Senior Developer",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/adityapatel",
+                "github": "https://github.com/aditya5",
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 13.0827,
+                        "lng": 80.2707
+                    }
+                },
+                "phone": "9810472531",
+                "profileCompletion": 83,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0a3f47d0ab2b3e9cc7",
+            "name": "Kavya Rao",
+            "email": "kavya.rao6@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:50.373Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0a3f47d0ab2b3e9cc9",
+                "userId": "69347b0a3f47d0ab2b3e9cc7",
+                "verified": true,
+                "graduationYear": 2018,
+                "degreeUrl": "https://drive.google.com/degree/69347b0a3f47d0ab2b3e9cc7",
+                "skills": [
+                    "React",
+                    "Node.js"
+                ],
+                "degree": "B.Tech",
+                "department": "Electronics",
+                "enrollmentNumber": "ELE2018007",
+                "employmentStatus": "employed",
+                "currentCompany": "Accenture",
+                "designation": "Architect",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/kavyarao",
+                "github": "https://github.com/kavya6",
+                "location": {
+                    "city": "Delhi",
+                    "state": "Delhi",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 28.6139,
+                        "lng": 77.209
+                    }
+                },
+                "phone": "9826625235",
+                "profileCompletion": 88,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0a3f47d0ab2b3e9ccc",
+            "name": "Priya Chatterjee",
+            "email": "priya.chatterjee7@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:50.610Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0a3f47d0ab2b3e9cce",
+                "userId": "69347b0a3f47d0ab2b3e9ccc",
+                "verified": true,
+                "graduationYear": 2018,
+                "degreeUrl": "https://drive.google.com/degree/69347b0a3f47d0ab2b3e9ccc",
+                "skills": [
+                    "Java",
+                    "AWS"
+                ],
+                "degree": "B.Tech",
+                "department": "Computer Science",
+                "enrollmentNumber": "IT2018008",
+                "employmentStatus": "employed",
+                "currentCompany": "Flipkart",
+                "designation": "Founder",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/priyachatterjee",
+                "github": "https://github.com/priya7",
+                "location": {
+                    "city": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 22.5726,
+                        "lng": 88.3639
+                    }
+                },
+                "phone": "9848236486",
+                "profileCompletion": 90,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0a3f47d0ab2b3e9cd1",
+            "name": "Meera Mehta",
+            "email": "meera.mehta8@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:50.810Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0a3f47d0ab2b3e9cd3",
+                "userId": "69347b0a3f47d0ab2b3e9cd1",
+                "verified": true,
+                "graduationYear": 2021,
+                "degreeUrl": "https://drive.google.com/degree/69347b0a3f47d0ab2b3e9cd1",
+                "skills": [
+                    "JavaScript",
+                    "Java",
+                    "SQL",
+                    "Python",
+                    "React",
+                    "Machine Learning"
+                ],
+                "degree": "Ph.D",
+                "department": "Civil",
+                "enrollmentNumber": "MEC2021009",
+                "employmentStatus": "employed",
+                "currentCompany": "Accenture",
+                "designation": "Tech Lead",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/meeramehta",
+                "github": "https://github.com/meera8",
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 13.0827,
+                        "lng": 80.2707
+                    }
+                },
+                "phone": "9891140430",
+                "profileCompletion": 88,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0b3f47d0ab2b3e9cd6",
+            "name": "Priya Das",
+            "email": "priya.das9@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:51.020Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0b3f47d0ab2b3e9cd8",
+                "userId": "69347b0b3f47d0ab2b3e9cd6",
+                "verified": false,
+                "graduationYear": 2019,
+                "degreeUrl": "https://drive.google.com/degree/69347b0b3f47d0ab2b3e9cd6",
+                "skills": [
+                    "MongoDB",
+                    "AWS",
+                    "Data Science"
+                ],
+                "degree": "M.Tech",
+                "department": "Computer Science",
+                "enrollmentNumber": "ELE2019010",
+                "employmentStatus": "employed",
+                "currentCompany": "Accenture",
+                "designation": "Founder",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/priyadas",
+                "github": "https://github.com/priya9",
+                "location": {
+                    "city": "Ahmedabad",
+                    "state": "Gujarat",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 23.0225,
+                        "lng": 72.5714
+                    }
+                },
+                "phone": "9855903762",
+                "profileCompletion": 70,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0b3f47d0ab2b3e9cdb",
+            "name": "Ananya Rao",
+            "email": "ananya.rao10@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:51.219Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0b3f47d0ab2b3e9cdd",
+                "userId": "69347b0b3f47d0ab2b3e9cdb",
+                "verified": true,
+                "graduationYear": 2018,
+                "degreeUrl": "https://drive.google.com/degree/69347b0b3f47d0ab2b3e9cdb",
+                "skills": [
+                    "Docker",
+                    "Data Science",
+                    "Python"
+                ],
+                "degree": "M.Tech",
+                "department": "Civil",
+                "enrollmentNumber": "CIV2018011",
+                "employmentStatus": "employed",
+                "currentCompany": "Adobe",
+                "designation": "DevOps Engineer",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/ananyarao",
+                "github": "https://github.com/ananya10",
+                "location": {
+                    "city": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 22.5726,
+                        "lng": 88.3639
+                    }
+                },
+                "phone": "9893570623",
+                "profileCompletion": 71,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0b3f47d0ab2b3e9ce0",
+            "name": "Ananya Shah",
+            "email": "ananya.shah11@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:51.427Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0b3f47d0ab2b3e9ce2",
+                "userId": "69347b0b3f47d0ab2b3e9ce0",
+                "verified": true,
+                "graduationYear": 2018,
+                "degreeUrl": "https://drive.google.com/degree/69347b0b3f47d0ab2b3e9ce0",
+                "skills": [
+                    "SQL",
+                    "Kubernetes",
+                    "Docker",
+                    "Python",
+                    "React"
+                ],
+                "degree": "MBA",
+                "department": "Electronics",
+                "enrollmentNumber": "ELE2018012",
+                "employmentStatus": "employed",
+                "currentCompany": "Google",
+                "designation": "Architect",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/ananyashah",
+                "github": "https://github.com/ananya11",
+                "location": {
+                    "city": "Pune",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 18.5204,
+                        "lng": 73.8567
+                    }
+                },
+                "phone": "9832591505",
+                "profileCompletion": 82,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0b3f47d0ab2b3e9ce5",
+            "name": "Pooja Kumar",
+            "email": "pooja.kumar12@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:51.628Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0b3f47d0ab2b3e9ce7",
+                "userId": "69347b0b3f47d0ab2b3e9ce5",
+                "verified": true,
+                "graduationYear": 2021,
+                "degreeUrl": "https://drive.google.com/degree/69347b0b3f47d0ab2b3e9ce5",
+                "skills": [
+                    "Machine Learning",
+                    "Data Science",
+                    "Kubernetes"
+                ],
+                "degree": "M.Tech",
+                "department": "IT",
+                "enrollmentNumber": "ELE2021013",
+                "employmentStatus": "employed",
+                "currentCompany": "Flipkart",
+                "designation": "Founder",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/poojakumar",
+                "github": "https://github.com/pooja12",
+                "location": {
+                    "city": "Kolkata",
+                    "state": "West Bengal",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 22.5726,
+                        "lng": 88.3639
+                    }
+                },
+                "phone": "9873231028",
+                "profileCompletion": 81,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0c3f47d0ab2b3e9cea",
+            "name": "Nisha Agarwal",
+            "email": "nisha.agarwal13@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:52.504Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0c3f47d0ab2b3e9cec",
+                "userId": "69347b0c3f47d0ab2b3e9cea",
+                "verified": true,
+                "graduationYear": 2019,
+                "degreeUrl": "https://drive.google.com/degree/69347b0c3f47d0ab2b3e9cea",
+                "skills": [
+                    "JavaScript",
+                    "AWS",
+                    "Docker",
+                    "Data Science",
+                    "Python",
+                    "SQL"
+                ],
+                "degree": "MBA",
+                "department": "Electronics",
+                "enrollmentNumber": "CIV2019014",
+                "employmentStatus": "employed",
+                "currentCompany": "Deloitte",
+                "designation": "CTO",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/nishaagarwal",
+                "github": "https://github.com/nisha13",
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 13.0827,
+                        "lng": 80.2707
+                    }
+                },
+                "phone": "9838710538",
+                "profileCompletion": 92,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0c3f47d0ab2b3e9cef",
+            "name": "Nikhil Iyer",
+            "email": "nikhil.iyer14@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:52.768Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0c3f47d0ab2b3e9cf1",
+                "userId": "69347b0c3f47d0ab2b3e9cef",
+                "verified": false,
+                "graduationYear": 2022,
+                "degreeUrl": "https://drive.google.com/degree/69347b0c3f47d0ab2b3e9cef",
+                "skills": [
+                    "JavaScript",
+                    "React",
+                    "Java"
+                ],
+                "degree": "B.Tech",
+                "department": "IT",
+                "enrollmentNumber": "COM2022015",
+                "employmentStatus": "employed",
+                "currentCompany": "Amazon",
+                "designation": "Product Manager",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/nikhiliyer",
+                "github": "https://github.com/nikhil14",
+                "location": {
+                    "city": "Chennai",
+                    "state": "Tamil Nadu",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 13.0827,
+                        "lng": 80.2707
+                    }
+                },
+                "phone": "9882783882",
+                "profileCompletion": 79,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0c3f47d0ab2b3e9cf4",
+            "name": "Shruti Malhotra",
+            "email": "shruti.malhotra15@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:52.975Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0d3f47d0ab2b3e9cf6",
+                "userId": "69347b0c3f47d0ab2b3e9cf4",
+                "verified": false,
+                "graduationYear": 2022,
+                "degreeUrl": "https://drive.google.com/degree/69347b0c3f47d0ab2b3e9cf4",
+                "skills": [
+                    "Docker",
+                    "AWS",
+                    "Data Science",
+                    "React",
+                    "MongoDB",
+                    "Java"
+                ],
+                "degree": "Ph.D",
+                "department": "Computer Science",
+                "enrollmentNumber": "CIV2022016",
+                "employmentStatus": "employed",
+                "currentCompany": "Adobe",
+                "designation": "Tech Lead",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/shrutimalhotra",
+                "github": "https://github.com/shruti15",
+                "location": {
+                    "city": "Mumbai",
+                    "state": "Maharashtra",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 19.076,
+                        "lng": 72.8777
+                    }
+                },
+                "phone": "9822650949",
+                "profileCompletion": 65,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0d3f47d0ab2b3e9cf9",
+            "name": "Rahul Pillai",
+            "email": "rahul.pillai16@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:53.219Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0d3f47d0ab2b3e9cfb",
+                "userId": "69347b0d3f47d0ab2b3e9cf9",
+                "verified": false,
+                "graduationYear": 2022,
+                "degreeUrl": "https://drive.google.com/degree/69347b0d3f47d0ab2b3e9cf9",
+                "skills": [
+                    "JavaScript",
+                    "Docker",
+                    "AWS",
+                    "Python",
+                    "React"
+                ],
+                "degree": "M.Tech",
+                "department": "IT",
+                "enrollmentNumber": "MEC2022017",
+                "employmentStatus": "employed",
+                "currentCompany": "Amazon",
+                "designation": "Software Engineer",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/rahulpillai",
+                "github": "https://github.com/rahul16",
+                "location": {
+                    "city": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 12.9716,
+                        "lng": 77.5946
+                    }
+                },
+                "phone": "9836228425",
+                "profileCompletion": 97,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0d3f47d0ab2b3e9cfe",
+            "name": "Kavya Iyer",
+            "email": "kavya.iyer17@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:53.440Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0d3f47d0ab2b3e9d00",
+                "userId": "69347b0d3f47d0ab2b3e9cfe",
+                "verified": false,
+                "graduationYear": 2021,
+                "degreeUrl": "https://drive.google.com/degree/69347b0d3f47d0ab2b3e9cfe",
+                "skills": [
+                    "AWS",
+                    "JavaScript",
+                    "Data Science",
+                    "Java"
+                ],
+                "degree": "Ph.D",
+                "department": "Electrical",
+                "enrollmentNumber": "CIV2021018",
+                "employmentStatus": "employed",
+                "currentCompany": "Flipkart",
+                "designation": "Founder",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/kavyaiyer",
+                "github": "https://github.com/kavya17",
+                "location": {
+                    "city": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 12.9716,
+                        "lng": 77.5946
+                    }
+                },
+                "phone": "9842422746",
+                "profileCompletion": 78,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0d3f47d0ab2b3e9d03",
+            "name": "Aditya Mehta",
+            "email": "aditya.mehta18@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:53.696Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0d3f47d0ab2b3e9d05",
+                "userId": "69347b0d3f47d0ab2b3e9d03",
+                "verified": true,
+                "graduationYear": 2022,
+                "degreeUrl": "https://drive.google.com/degree/69347b0d3f47d0ab2b3e9d03",
+                "skills": [
+                    "MongoDB",
+                    "Docker",
+                    "Python",
+                    "Java"
+                ],
+                "degree": "B.Tech",
+                "department": "Electrical",
+                "enrollmentNumber": "CIV2022019",
+                "employmentStatus": "employed",
+                "currentCompany": "Amazon",
+                "designation": "Tech Lead",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/adityamehta",
+                "github": "https://github.com/aditya18",
+                "location": {
+                    "city": "Hyderabad",
+                    "state": "Telangana",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 17.385,
+                        "lng": 78.4867
+                    }
+                },
+                "phone": "9880421447",
+                "profileCompletion": 64,
+                "__v": 0
+            }
+        },
+        {
+            "_id": "69347b0d3f47d0ab2b3e9d08",
+            "name": "Nikhil Patel",
+            "email": "nikhil.patel19@gmail.com",
+            "userType": "Alumni",
+            "createdAt": "2025-12-06T18:50:53.908Z",
+            "__v": 0,
+            "profileDetails": {
+                "_id": "69347b0d3f47d0ab2b3e9d0a",
+                "userId": "69347b0d3f47d0ab2b3e9d08",
+                "verified": false,
+                "graduationYear": 2020,
+                "degreeUrl": "https://drive.google.com/degree/69347b0d3f47d0ab2b3e9d08",
+                "skills": [
+                    "React",
+                    "Kubernetes",
+                    "Node.js"
+                ],
+                "degree": "Ph.D",
+                "department": "Electronics",
+                "enrollmentNumber": "IT2020020",
+                "employmentStatus": "employed",
+                "currentCompany": "Flipkart",
+                "designation": "Data Scientist",
+                "industry": "Technology",
+                "linkedIn": "https://linkedin.com/in/nikhilpatel",
+                "github": "https://github.com/nikhil19",
+                "location": {
+                    "city": "Bangalore",
+                    "state": "Karnataka",
+                    "country": "India",
+                    "coordinates": {
+                        "lat": 12.9716,
+                        "lng": 77.5946
+                    }
+                },
+                "phone": "9859596418",
+                "profileCompletion": 94,
+                "__v": 0
+            }
+        }
+    ]
+}

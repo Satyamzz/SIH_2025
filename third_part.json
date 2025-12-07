@@ -1,0 +1,12002 @@
+[
+  [
+    "He has 5 years of experience in Lua development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in VHDL.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Tcl is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Shell Scripting.",
+    {
+      "entities": [
+        [
+          50,
+          65,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C?",
+    {
+      "entities": [
+        [
+          0,
+          1,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C++?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Fortran programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Verilog?",
+    {
+      "entities": [
+        [
+          31,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Simulink is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance MicroPython.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using LabVIEW.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in MicroPython is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Verilog?",
+    {
+      "entities": [
+        [
+          31,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in LabVIEW is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Tcl.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like SystemC is essential.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in LabVIEW development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Objective-C for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Perl is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Go.",
+    {
+      "entities": [
+        [
+          49,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Tcl.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with ASM on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Lua.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Elixir.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in ASM.",
+    {
+      "entities": [
+        [
+          50,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Go.",
+    {
+      "entities": [
+        [
+          49,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy SystemVerilog codebase.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug MIPS Assembly modules.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Shell Scripting development.",
+    {
+      "entities": [
+        [
+          32,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Objective-C is critical.",
+    {
+      "entities": [
+        [
+          38,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Lisp on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Haskell.",
+    {
+      "entities": [
+        [
+          36,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in FreeRTOS.",
+    {
+      "entities": [
+        [
+          50,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with CircuitPython on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in C Plus Plus is critical.",
+    {
+      "entities": [
+        [
+          38,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in CircuitPython.",
+    {
+      "entities": [
+        [
+          36,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Elixir programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C.",
+    {
+      "entities": [
+        [
+          36,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Embedded C development.",
+    {
+      "entities": [
+        [
+          32,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in SystemC.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Ada.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C Plus Plus is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in x86 Assembly is critical.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on x86 Assembly for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Lua.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like CPP is essential.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Device Drivers.",
+    {
+      "entities": [
+        [
+          38,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Firmware.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Tcl codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Embedded C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Objective-C.",
+    {
+      "entities": [
+        [
+          50,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Elixir codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Pascal is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Objective-C.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Pascal?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C++ on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in ASM.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++11.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Erlang on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Embedded C is critical.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Bash is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in SystemC is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Matlab?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in SystemVerilog is critical.",
+    {
+      "entities": [
+        [
+          38,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy RTOS codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C?",
+    {
+      "entities": [
+        [
+          0,
+          1,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C++17 on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Embedded C?",
+    {
+      "entities": [
+        [
+          31,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Verilog modules.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy CPP codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Golang.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using PowerShell.",
+    {
+      "entities": [
+        [
+          39,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with VHDL programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Shell Scripting.",
+    {
+      "entities": [
+        [
+          50,
+          65,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++ modules.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Fortran is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Modern C++ on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Haskell.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance FreeRTOS.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Verilog is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using RTOS.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Fortran.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in x86 Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Shell Scripting on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in C Plus Plus.",
+    {
+      "entities": [
+        [
+          50,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Objective-C.",
+    {
+      "entities": [
+        [
+          50,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in ARM Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Verilog is essential.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with C++17 programming.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Lua.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Tcl is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Lisp is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like PowerShell is essential.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using x86 Assembly.",
+    {
+      "entities": [
+        [
+          39,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Objective-C modules.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Shell Scripting is critical.",
+    {
+      "entities": [
+        [
+          38,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Lua.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in CPP is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with SystemVerilog on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using MicroPython.",
+    {
+      "entities": [
+        [
+          39,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Python codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with ASM programming.",
+    {
+      "entities": [
+        [
+          40,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in RTOS.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Assembly development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Golang and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++17 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Haskell on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Python modules.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++14 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Objective-C.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in MIPS Assembly and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in CPP is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with ARM Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with C++11 programming.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Assembly development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Fortran for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using ASM.",
+    {
+      "entities": [
+        [
+          39,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Lua programming.",
+    {
+      "entities": [
+        [
+          40,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in VHDL is critical.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in SystemC is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Fortran.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Haskell is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++11 is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Erlang.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in CPP.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C++11 is essential.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of C++14 is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++ and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like MicroPython is essential.",
+    {
+      "entities": [
+        [
+          49,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++14 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy ASM codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in FreeRTOS is critical.",
+    {
+      "entities": [
+        [
+          38,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Device Drivers.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C development.",
+    {
+      "entities": [
+        [
+          32,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Matlab.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Embedded C for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with C++ programming.",
+    {
+      "entities": [
+        [
+          40,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Device Drivers development.",
+    {
+      "entities": [
+        [
+          32,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++14 development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Firmware.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Objective-C development.",
+    {
+      "entities": [
+        [
+          32,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Device Drivers is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++11 is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++14 and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Erlang programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Modern C++ for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Python is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with PowerShell on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in ARM Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Bash.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Device Drivers development.",
+    {
+      "entities": [
+        [
+          32,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to ARM Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C++11 is essential.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Assembly codebase.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in VHDL.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Elixir is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C Plus Plus and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Lua.",
+    {
+      "entities": [
+        [
+          50,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in C++14.",
+    {
+      "entities": [
+        [
+          50,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in LabVIEW.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Device Drivers is essential.",
+    {
+      "entities": [
+        [
+          49,
+          63,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Lisp development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Haskell.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Simulink on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in LabVIEW and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with RTOS programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy CircuitPython codebase.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Pascal.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Lisp development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Tcl development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Matlab.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Erlang?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Ada on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with MicroPython on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Matlab is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in PowerShell.",
+    {
+      "entities": [
+        [
+          50,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with SystemC on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Haskell is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Shell Scripting.",
+    {
+      "entities": [
+        [
+          50,
+          65,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy VHDL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Fortran.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in x86 Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Ocaml for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in x86 Assembly is critical.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++17.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Shell Scripting.",
+    {
+      "entities": [
+        [
+          45,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in FreeRTOS and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in ASM and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Lisp is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy VHDL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Fortran development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Rust.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Perl is essential.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in RTOS.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Verilog.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with ARM Assembly programming.",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++17 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Device Drivers is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of CPP is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Haskell.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with CPP on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Tcl.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using ARM Assembly.",
+    {
+      "entities": [
+        [
+          39,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of C++11 is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Ada is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in COBOL and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of CircuitPython is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with C++17 programming.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Bash.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in ARM Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using ASM?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in CPP.",
+    {
+      "entities": [
+        [
+          50,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C++ on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Verilog and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Python and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of RTOS is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to COBOL.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Embedded C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Elixir is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Rust is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Elixir.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Ocaml is critical.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Bash on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to COBOL.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in FreeRTOS is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Embedded C is essential.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in x86 Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in VHDL development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in RTOS and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using MicroPython?",
+    {
+      "entities": [
+        [
+          31,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Matlab.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Firmware.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Matlab programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++14 development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Fortran is essential.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Device Drivers codebase.",
+    {
+      "entities": [
+        [
+          25,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Haskell.",
+    {
+      "entities": [
+        [
+          36,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Lisp on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy C++11 codebase.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Rust for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy CircuitPython codebase.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug SystemC modules.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Go.",
+    {
+      "entities": [
+        [
+          36,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Fortran.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Pascal.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to RTOS.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with MicroPython on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug MicroPython modules.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like FreeRTOS is essential.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++17 is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Simulink.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with ASM on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Golang modules.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Ocaml?",
+    {
+      "entities": [
+        [
+          31,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Pascal.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like SystemC is essential.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in VHDL is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug RTOS modules.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Embedded C is critical.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with SystemVerilog programming.",
+    {
+      "entities": [
+        [
+          40,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Elixir is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Ocaml.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Ada codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Modern C++.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Golang.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Rust is essential.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance MIPS Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to RTOS.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Modern C++.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Golang and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++17 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like SystemC is essential.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in LabVIEW development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Verilog development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++ and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in ASM and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Bash modules.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Simulink is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C.",
+    {
+      "entities": [
+        [
+          45,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Embedded C.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Rust programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Rust is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in PowerShell.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Rust programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in LabVIEW.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++17 development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Fortran.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Device Drivers.",
+    {
+      "entities": [
+        [
+          45,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on x86 Assembly for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in ARM Assembly development.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Firmware.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C++14 for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in C++ is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Assembly.",
+    {
+      "entities": [
+        [
+          39,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in C.",
+    {
+      "entities": [
+        [
+          36,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance CPP.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in C is critical.",
+    {
+      "entities": [
+        [
+          38,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Pascal.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Verilog and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Tcl.",
+    {
+      "entities": [
+        [
+          39,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in PowerShell.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in CPP development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Verilog.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Ada development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Matlab.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Lua.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy PowerShell codebase.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Simulink.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Haskell development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Shell Scripting?",
+    {
+      "entities": [
+        [
+          31,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with PowerShell programming.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in MicroPython.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Shell Scripting programming.",
+    {
+      "entities": [
+        [
+          40,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Python codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Verilog on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy C++ codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Python and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C++ on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Simulink.",
+    {
+      "entities": [
+        [
+          38,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in RTOS is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with x86 Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using CPP?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Objective-C.",
+    {
+      "entities": [
+        [
+          39,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in LabVIEW development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Device Drivers is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in MicroPython and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Matlab is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy COBOL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance MIPS Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with LabVIEW programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like CircuitPython is essential.",
+    {
+      "entities": [
+        [
+          49,
+          62,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C++.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in ASM is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in C.",
+    {
+      "entities": [
+        [
+          49,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on ASM for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C++14.",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with ARM Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in ARM Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Ada for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Elixir and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Lisp.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Matlab codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Erlang is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of MicroPython is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in ASM.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug x86 Assembly modules.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Verilog is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Bash.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Pascal.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Python is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Pascal programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like CircuitPython is essential.",
+    {
+      "entities": [
+        [
+          49,
+          62,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy VHDL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Embedded C on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Bash.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Device Drivers.",
+    {
+      "entities": [
+        [
+          49,
+          63,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Bash.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in LabVIEW.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on x86 Assembly for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Rust programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with LabVIEW on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to ARM Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance RTOS.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C development.",
+    {
+      "entities": [
+        [
+          32,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Assembly codebase.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Golang is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Embedded C is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with ARM Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with FreeRTOS programming.",
+    {
+      "entities": [
+        [
+          40,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Matlab programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Perl.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy VHDL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Objective-C.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Fortran.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in CircuitPython and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++14 development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in C++14.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in x86 Assembly development.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Haskell is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Objective-C.",
+    {
+      "entities": [
+        [
+          50,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Modern C++.",
+    {
+      "entities": [
+        [
+          45,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Simulink is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug COBOL modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in x86 Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in COBOL is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy C++11 codebase.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Haskell is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Embedded C programming.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Golang is essential.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in MIPS Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance MIPS Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Fortran is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in MicroPython is critical.",
+    {
+      "entities": [
+        [
+          38,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Python?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Assembly and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug RTOS modules.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Golang is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in C++14.",
+    {
+      "entities": [
+        [
+          50,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++17 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in RTOS.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using PowerShell?",
+    {
+      "entities": [
+        [
+          31,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Lisp.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in SystemVerilog.",
+    {
+      "entities": [
+        [
+          50,
+          63,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Firmware.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Ada.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in x86 Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Fortran.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C++17.",
+    {
+      "entities": [
+        [
+          45,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Golang and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Golang development.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to RTOS.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Tcl.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance RTOS.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Simulink.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Embedded C is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C Plus Plus for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in C++.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Lisp programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C++17 for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in C++14.",
+    {
+      "entities": [
+        [
+          50,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Verilog.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Verilog.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++11 and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Lua for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Device Drivers.",
+    {
+      "entities": [
+        [
+          39,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Shell Scripting is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Perl.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Ocaml development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Simulink is essential.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with CircuitPython on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Fortran.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Pascal on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Perl programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in VHDL.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in CPP and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Python.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Firmware development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Pascal is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Objective-C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Fortran is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Verilog is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Erlang codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Rust and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Simulink for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Golang and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on COBOL for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Lua is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Ocaml.",
+    {
+      "entities": [
+        [
+          39,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Objective-C is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in CPP development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in CPP.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Matlab is essential.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Firmware and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Simulink.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C++?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Lua?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using x86 Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Embedded C for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using FreeRTOS.",
+    {
+      "entities": [
+        [
+          39,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Ocaml.",
+    {
+      "entities": [
+        [
+          45,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of VHDL is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Lua for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Objective-C.",
+    {
+      "entities": [
+        [
+          50,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with CircuitPython on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Haskell and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in SystemC.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Firmware programming.",
+    {
+      "entities": [
+        [
+          40,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Bash.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Modern C++ is essential.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C Plus Plus on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C is essential.",
+    {
+      "entities": [
+        [
+          49,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Perl.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like MicroPython is essential.",
+    {
+      "entities": [
+        [
+          49,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using MIPS Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Lisp.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Lisp programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Simulink is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of SystemC is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Perl programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Fortran.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in C++11.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in RTOS and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug COBOL modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using C++14.",
+    {
+      "entities": [
+        [
+          39,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C++11.",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Objective-C for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Ada codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C++14 modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Device Drivers.",
+    {
+      "entities": [
+        [
+          39,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Assembly is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Go development.",
+    {
+      "entities": [
+        [
+          32,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Firmware for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Go is critical.",
+    {
+      "entities": [
+        [
+          38,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in C++.",
+    {
+      "entities": [
+        [
+          50,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Perl codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in LabVIEW development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with x86 Assembly programming.",
+    {
+      "entities": [
+        [
+          40,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C development.",
+    {
+      "entities": [
+        [
+          32,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in MIPS Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          62,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Verilog.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Embedded C.",
+    {
+      "entities": [
+        [
+          39,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Lisp.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Perl development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Embedded C.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Firmware is essential.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using RTOS?",
+    {
+      "entities": [
+        [
+          31,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Lua.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in CircuitPython.",
+    {
+      "entities": [
+        [
+          36,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in C++11.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Verilog programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Embedded C is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Embedded C programming.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in PowerShell is critical.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Erlang codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Ocaml programming.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Matlab.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Objective-C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Ada development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++ development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C?",
+    {
+      "entities": [
+        [
+          0,
+          1,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy PowerShell codebase.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Modern C++ and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in PowerShell.",
+    {
+      "entities": [
+        [
+          45,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C Plus Plus.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to MicroPython.",
+    {
+      "entities": [
+        [
+          38,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in FreeRTOS.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Pascal.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Modern C++ on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Haskell development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Verilog on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of MicroPython is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Device Drivers?",
+    {
+      "entities": [
+        [
+          31,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on MicroPython for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Rust is essential.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance ASM.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Tcl.",
+    {
+      "entities": [
+        [
+          39,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug x86 Assembly modules.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Embedded C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Lisp.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C++11 on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++17 and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Ada for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in VHDL.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of CPP is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using MicroPython?",
+    {
+      "entities": [
+        [
+          31,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of C++ is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy VHDL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C Plus Plus development.",
+    {
+      "entities": [
+        [
+          32,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Erlang development.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Erlang and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Golang?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++11 is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Golang.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++17 and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C++14.",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Ada.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Lisp.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Tcl is essential.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in RTOS.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C Plus Plus on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance CircuitPython.",
+    {
+      "entities": [
+        [
+          45,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in CPP is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Go.",
+    {
+      "entities": [
+        [
+          45,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with MIPS Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C++14.",
+    {
+      "entities": [
+        [
+          45,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to PowerShell.",
+    {
+      "entities": [
+        [
+          38,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Python.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of PowerShell is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Shell Scripting.",
+    {
+      "entities": [
+        [
+          38,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Ocaml is essential.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Embedded C.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Tcl and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C.",
+    {
+      "entities": [
+        [
+          36,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Shell Scripting on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Device Drivers programming.",
+    {
+      "entities": [
+        [
+          40,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug ASM modules.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in MIPS Assembly is critical.",
+    {
+      "entities": [
+        [
+          38,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Shell Scripting on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Rust for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++11.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Bash on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug CPP modules.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Ada is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Erlang is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in COBOL is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Rust.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Golang.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in SystemC.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Device Drivers.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like FreeRTOS is essential.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in C++14.",
+    {
+      "entities": [
+        [
+          50,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on ARM Assembly for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with RTOS on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C is essential.",
+    {
+      "entities": [
+        [
+          49,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Modern C++ development.",
+    {
+      "entities": [
+        [
+          32,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with SystemC programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Lisp codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Golang is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Shell Scripting.",
+    {
+      "entities": [
+        [
+          45,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++14.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Erlang for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in C is critical.",
+    {
+      "entities": [
+        [
+          38,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Embedded C programming.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using FreeRTOS.",
+    {
+      "entities": [
+        [
+          39,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on SystemC for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Golang.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Python.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Device Drivers.",
+    {
+      "entities": [
+        [
+          45,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Assembly.",
+    {
+      "entities": [
+        [
+          50,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Rust.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Elixir.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Erlang for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Lua.",
+    {
+      "entities": [
+        [
+          39,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C++11 is essential.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Golang development.",
+    {
+      "entities": [
+        [
+          32,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of ARM Assembly is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on CPP for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Elixir.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Shell Scripting development.",
+    {
+      "entities": [
+        [
+          32,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Perl.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Simulink is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Shell Scripting.",
+    {
+      "entities": [
+        [
+          45,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Objective-C is essential.",
+    {
+      "entities": [
+        [
+          49,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Perl is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in MIPS Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          62,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in LabVIEW.",
+    {
+      "entities": [
+        [
+          36,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Embedded C.",
+    {
+      "entities": [
+        [
+          45,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in C++11.",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on x86 Assembly for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Ocaml is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in SystemVerilog is critical.",
+    {
+      "entities": [
+        [
+          38,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Ada codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Bash is essential.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Matlab.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Ocaml is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Modern C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in x86 Assembly is critical.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Fortran.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance CPP.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Golang modules.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Perl on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to ARM Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C++.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in x86 Assembly and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with RTOS on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Ada modules.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug ARM Assembly modules.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Bash.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in SystemVerilog development.",
+    {
+      "entities": [
+        [
+          32,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in PowerShell is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using RTOS.",
+    {
+      "entities": [
+        [
+          39,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Verilog.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in C++17.",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Simulink.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in C.",
+    {
+      "entities": [
+        [
+          36,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Pascal for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Elixir for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Haskell on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Perl.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Matlab for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Fortran and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Bash.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to SystemVerilog.",
+    {
+      "entities": [
+        [
+          38,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Haskell is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Ada codebase.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Firmware development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Simulink development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Modern C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Pascal.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Tcl on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on CircuitPython for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in CPP.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Ocaml.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of MIPS Assembly is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug RTOS modules.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Golang programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Go is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Objective-C programming.",
+    {
+      "entities": [
+        [
+          40,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with RTOS on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in CircuitPython.",
+    {
+      "entities": [
+        [
+          36,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with SystemC programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on RTOS for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in SystemC is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Rust for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Elixir.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Firmware.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance FreeRTOS.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Matlab.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++11 is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance FreeRTOS.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in ARM Assembly development.",
+    {
+      "entities": [
+        [
+          32,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Lisp is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in PowerShell.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Shell Scripting modules.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with SystemC on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Rust.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Firmware.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Shell Scripting?",
+    {
+      "entities": [
+        [
+          31,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C++14 is essential.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Haskell is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Shell Scripting is essential.",
+    {
+      "entities": [
+        [
+          49,
+          64,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Ada for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Elixir.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in C++14 and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Bash is essential.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in RTOS.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Pascal.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Matlab.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Fortran is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Simulink.",
+    {
+      "entities": [
+        [
+          45,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on SystemVerilog for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Simulink.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Lua.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Objective-C.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to COBOL.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in ARM Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Erlang is essential.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of COBOL is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C++11?",
+    {
+      "entities": [
+        [
+          31,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in LabVIEW is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C++.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Perl on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in COBOL and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Ada.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Lua is essential.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C++ is essential.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in ASM.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in COBOL.",
+    {
+      "entities": [
+        [
+          50,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Assembly is critical.",
+    {
+      "entities": [
+        [
+          38,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with MicroPython programming.",
+    {
+      "entities": [
+        [
+          40,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Golang.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Firmware is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Pascal.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Pascal?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy MIPS Assembly codebase.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Device Drivers.",
+    {
+      "entities": [
+        [
+          50,
+          64,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Rust development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in ARM Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Lua?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to x86 Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Shell Scripting codebase.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Perl development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Bash is essential.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Simulink.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance x86 Assembly.",
+    {
+      "entities": [
+        [
+          45,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Haskell and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C++ for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with FreeRTOS on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy RTOS codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Verilog programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in C++.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C++17.",
+    {
+      "entities": [
+        [
+          45,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Modern C++ codebase.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Firmware development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Lua.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of MIPS Assembly is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to ARM Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Lisp.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Lua on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Device Drivers is essential.",
+    {
+      "entities": [
+        [
+          49,
+          63,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in ASM development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Objective-C and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in CircuitPython and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of ARM Assembly is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like FreeRTOS is essential.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Bash.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Lua programming.",
+    {
+      "entities": [
+        [
+          40,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with PowerShell on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Ada and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with CPP on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Shell Scripting.",
+    {
+      "entities": [
+        [
+          39,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Ada and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Tcl.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using C++11.",
+    {
+      "entities": [
+        [
+          39,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Assembly codebase.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Matlab.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in ASM.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on RTOS for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Shell Scripting codebase.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to COBOL.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Perl programming.",
+    {
+      "entities": [
+        [
+          40,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Bash codebase.",
+    {
+      "entities": [
+        [
+          25,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Matlab on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Firmware development.",
+    {
+      "entities": [
+        [
+          32,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in CPP.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in VHDL is critical.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Shell Scripting codebase.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Embedded C.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C Plus Plus is essential.",
+    {
+      "entities": [
+        [
+          49,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in RTOS development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Golang programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Fortran is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of C is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Modern C++ development.",
+    {
+      "entities": [
+        [
+          32,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of MIPS Assembly is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Objective-C?",
+    {
+      "entities": [
+        [
+          31,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in CircuitPython is critical.",
+    {
+      "entities": [
+        [
+          38,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Erlang.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy MicroPython codebase.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Haskell programming.",
+    {
+      "entities": [
+        [
+          40,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C++11.",
+    {
+      "entities": [
+        [
+          45,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with PowerShell programming.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in LabVIEW and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Matlab.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Verilog.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in LabVIEW.",
+    {
+      "entities": [
+        [
+          36,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Ada.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Matlab and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          21,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Erlang.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Lua.",
+    {
+      "entities": [
+        [
+          50,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Lua development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Tcl is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Go.",
+    {
+      "entities": [
+        [
+          38,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in MIPS Assembly and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in PowerShell is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C++17 for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Lisp.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Ada development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy COBOL codebase.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in CircuitPython.",
+    {
+      "entities": [
+        [
+          50,
+          63,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Verilog development.",
+    {
+      "entities": [
+        [
+          32,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Ada for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Simulink on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Python.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Shell Scripting.",
+    {
+      "entities": [
+        [
+          36,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Firmware programming.",
+    {
+      "entities": [
+        [
+          40,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Golang.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Simulink for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          29,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Modern C++ is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Elixir.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Device Drivers is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Erlang.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of SystemC is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Tcl?",
+    {
+      "entities": [
+        [
+          31,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Assembly.",
+    {
+      "entities": [
+        [
+          39,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Lua and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using x86 Assembly.",
+    {
+      "entities": [
+        [
+          39,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Tcl is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Golang codebase.",
+    {
+      "entities": [
+        [
+          25,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          17,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Ocaml modules.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in CircuitPython is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          27,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Bash.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in COBOL.",
+    {
+      "entities": [
+        [
+          49,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++14.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C Plus Plus is essential.",
+    {
+      "entities": [
+        [
+          49,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Assembly and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          23,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Verilog for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in C++14.",
+    {
+      "entities": [
+        [
+          36,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Fortran.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++14.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Pascal is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in C++14 is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          19,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of C++14 is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug x86 Assembly modules.",
+    {
+      "entities": [
+        [
+          25,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Objective-C is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Shell Scripting programming.",
+    {
+      "entities": [
+        [
+          40,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with SystemC on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using SystemVerilog.",
+    {
+      "entities": [
+        [
+          39,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like CircuitPython is essential.",
+    {
+      "entities": [
+        [
+          49,
+          62,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Modern C++.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Golang.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Erlang.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using C Plus Plus.",
+    {
+      "entities": [
+        [
+          39,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in RTOS development.",
+    {
+      "entities": [
+        [
+          32,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with MIPS Assembly on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Rust.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Go?",
+    {
+      "entities": [
+        [
+          31,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Fortran for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++14 development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in MicroPython.",
+    {
+      "entities": [
+        [
+          49,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Ada.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in C++.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on x86 Assembly for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in C.",
+    {
+      "entities": [
+        [
+          45,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Objective-C codebase.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in C++ development.",
+    {
+      "entities": [
+        [
+          32,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in VHDL.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Embedded C is essential.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Fortran.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Matlab.",
+    {
+      "entities": [
+        [
+          39,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Golang?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in x86 Assembly.",
+    {
+      "entities": [
+        [
+          49,
+          61,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using LabVIEW?",
+    {
+      "entities": [
+        [
+          31,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Golang.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Ocaml.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy SystemC codebase.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Lua.",
+    {
+      "entities": [
+        [
+          36,
+          39,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Device Drivers is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Lisp.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with COBOL on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with LabVIEW on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Device Drivers.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Objective-C is critical.",
+    {
+      "entities": [
+        [
+          38,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with Golang programming.",
+    {
+      "entities": [
+        [
+          40,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Tcl.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Device Drivers.",
+    {
+      "entities": [
+        [
+          36,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in Ocaml development.",
+    {
+      "entities": [
+        [
+          32,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Firmware on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          33,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Lisp.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Embedded C is essential.",
+    {
+      "entities": [
+        [
+          49,
+          59,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Tcl is critical.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in FreeRTOS.",
+    {
+      "entities": [
+        [
+          49,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Perl.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Go.",
+    {
+      "entities": [
+        [
+          36,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Lisp.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Elixir is critical.",
+    {
+      "entities": [
+        [
+          38,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++11.",
+    {
+      "entities": [
+        [
+          38,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Embedded C?",
+    {
+      "entities": [
+        [
+          31,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug C Plus Plus modules.",
+    {
+      "entities": [
+        [
+          25,
+          36,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Lua and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in Haskell and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          22,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Proficiency in COBOL and linear algebra is needed.",
+    {
+      "entities": [
+        [
+          15,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C Plus Plus?",
+    {
+      "entities": [
+        [
+          31,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Objective-C.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Pascal?",
+    {
+      "entities": [
+        [
+          31,
+          37,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in VHDL.",
+    {
+      "entities": [
+        [
+          49,
+          53,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug SystemC modules.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Pascal is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          20,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "She optimized the legacy Ocaml codebase.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in RTOS is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          18,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Ada.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Matlab.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug CircuitPython modules.",
+    {
+      "entities": [
+        [
+          25,
+          38,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Rust.",
+    {
+      "entities": [
+        [
+          36,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance C++.",
+    {
+      "entities": [
+        [
+          45,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with PowerShell on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Shell Scripting.",
+    {
+      "entities": [
+        [
+          36,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on Embedded C for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          31,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance Objective-C.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Device Drivers.",
+    {
+      "entities": [
+        [
+          38,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Matlab.",
+    {
+      "entities": [
+        [
+          45,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Lisp?",
+    {
+      "entities": [
+        [
+          31,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using C Plus Plus?",
+    {
+      "entities": [
+        [
+          31,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in ARM Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          48,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Erlang.",
+    {
+      "entities": [
+        [
+          36,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like C++ is essential.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in PowerShell.",
+    {
+      "entities": [
+        [
+          50,
+          60,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using Perl?",
+    {
+      "entities": [
+        [
+          31,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in Shell Scripting.",
+    {
+      "entities": [
+        [
+          36,
+          51,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The backend logic relies on high-performance MicroPython.",
+    {
+      "entities": [
+        [
+          45,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with C++11 on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          30,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in SystemVerilog.",
+    {
+      "entities": [
+        [
+          45,
+          58,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Shell Scripting modules.",
+    {
+      "entities": [
+        [
+          25,
+          40,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "He has 5 years of experience in CircuitPython development.",
+    {
+      "entities": [
+        [
+          32,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in VHDL.",
+    {
+      "entities": [
+        [
+          45,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Assembly.",
+    {
+      "entities": [
+        [
+          36,
+          44,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in MicroPython is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          25,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to C++.",
+    {
+      "entities": [
+        [
+          38,
+          41,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The kernel module is implemented in C Plus Plus.",
+    {
+      "entities": [
+        [
+          36,
+          47,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with PowerShell programming.",
+    {
+      "entities": [
+        [
+          40,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The project involves writing low-latency code in Golang.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like Python is essential.",
+    {
+      "entities": [
+        [
+          49,
+          55,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using Haskell.",
+    {
+      "entities": [
+        [
+          39,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in SystemC.",
+    {
+      "entities": [
+        [
+          50,
+          57,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Pascal.",
+    {
+      "entities": [
+        [
+          50,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on CircuitPython for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          34,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The algorithm requires a robust implementation in Bash.",
+    {
+      "entities": [
+        [
+          50,
+          54,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "You will be working with Verilog on a daily basis.",
+    {
+      "entities": [
+        [
+          25,
+          32,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We need someone to debug Embedded C modules.",
+    {
+      "entities": [
+        [
+          25,
+          35,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on C++17 for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like CPP is essential.",
+    {
+      "entities": [
+        [
+          49,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Knowledge of hardware description languages like LabVIEW is essential.",
+    {
+      "entities": [
+        [
+          49,
+          56,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are looking for a developer proficient in Verilog.",
+    {
+      "entities": [
+        [
+          45,
+          52,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Can you write a compiler using ARM Assembly?",
+    {
+      "entities": [
+        [
+          31,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to x86 Assembly.",
+    {
+      "entities": [
+        [
+          38,
+          50,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "We are migrating our system from C to Rust.",
+    {
+      "entities": [
+        [
+          38,
+          42,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The hardware simulation was done using PowerShell.",
+    {
+      "entities": [
+        [
+          39,
+          49,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with C++11 programming.",
+    {
+      "entities": [
+        [
+          40,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "This role focuses on LabVIEW for signal processing.",
+    {
+      "entities": [
+        [
+          21,
+          28,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Strong knowledge of Elixir is required for this embedded role.",
+    {
+      "entities": [
+        [
+          20,
+          26,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "The candidate must have experience with ASM programming.",
+    {
+      "entities": [
+        [
+          40,
+          43,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Understanding of memory management in Fortran is critical.",
+    {
+      "entities": [
+        [
+          38,
+          45,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Experience in Modern C++ is a huge plus.",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "SKILL"
+        ]
+      ]
+    }
+  ],
+  [
+    "Our firmware is entirely written in Modern C++.",
+    {
+      "entities": [
+        [
+          36,
+          46,
+          "SKILL"
+        ]
+      ]
+    }
+  ]
+]

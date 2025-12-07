@@ -12,8 +12,7 @@ unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
 
 with nlp.disable_pipes(*unaffected_pipes):
     optimizer = nlp.resume_training()
-    
-    for epoch in range(100): 
+    for epoch in range(50): 
         random.shuffle(TRAIN_DATA)
         losses = {}
         batches = minibatch(TRAIN_DATA, size=compounding(4.0, 32.0, 1.5))

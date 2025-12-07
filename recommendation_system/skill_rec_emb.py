@@ -19,9 +19,7 @@ model = SentenceTransformer("intfloat/e5-small")
 
 @router.post("/recommend/alum_emb")
 def recommend(req: SKILL):
-
     skills = req.skills
-
     if not skills:
         return {"error": "No skills provided"}
 

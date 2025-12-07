@@ -12,7 +12,9 @@ def get_demo_data():
                 "phone": "+91-9876543210",
                 "skills": ["Deep Learning", "Python", "TensorFlow"],
                 "linkedin": "https://linkedin.com/in/satyam-singh",
-                "branch": "ECE"
+                "branch": "ECE",
+                "verified": True,
+                "completion_percent": 95
             },
             {
                 "id": 2,
@@ -25,7 +27,9 @@ def get_demo_data():
                 "phone": "+91-9123456780",
                 "skills": ["C++", "Cloud", "System Design"],
                 "linkedin": "https://linkedin.com/in/rewant-bhriguvanshi",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": True,
+                "completion_percent": 90
             },
             {
                 "id": 3,
@@ -38,7 +42,9 @@ def get_demo_data():
                 "phone": "+91-9988776655",
                 "skills": ["Product Development", "AI Integration"],
                 "linkedin": "https://linkedin.com/in/krishna-yadav",
-                "branch": "AI/ML"
+                "branch": "AI/ML",
+                "verified": False,
+                "completion_percent": 75
             },
             {
                 "id": 4,
@@ -51,7 +57,9 @@ def get_demo_data():
                 "phone": "+91-9001234567",
                 "skills": ["Backend", "Python", "Django"],
                 "linkedin": "https://linkedin.com/in/garvit-gupta",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": False,
+                "completion_percent": 70
             },
             {
                 "id": 5,
@@ -64,7 +72,9 @@ def get_demo_data():
                 "phone": "+91-9090908080",
                 "skills": ["Machine Learning", "NLP", "Model Deployment"],
                 "linkedin": "https://linkedin.com/in/shubhika-sinha",
-                "branch": "AI/ML"
+                "branch": "AI/ML",
+                "verified": True,
+                "completion_percent": 88
             },
             {
                 "id": 6,
@@ -77,7 +87,9 @@ def get_demo_data():
                 "phone": "+91-9898987878",
                 "skills": ["Go", "Microservices", "API Development"],
                 "linkedin": "https://linkedin.com/in/prayas-yadav",
-                "branch": "IT"
+                "branch": "IT",
+                "verified": True,
+                "completion_percent": 92
             },
             {
                 "id": 7,
@@ -90,7 +102,9 @@ def get_demo_data():
                 "phone": "+91-9887766554",
                 "skills": ["Verilog", "Physical Design", "RTL"],
                 "linkedin": "https://linkedin.com/in/shreyas-singh",
-                "branch": "ECE"
+                "branch": "ECE",
+                "verified": False,
+                "completion_percent": 78
             },
             {
                 "id": 8,
@@ -103,7 +117,9 @@ def get_demo_data():
                 "phone": "+91-9876501234",
                 "skills": ["FPGA", "ASIC", "Static Timing Analysis"],
                 "linkedin": "https://linkedin.com/in/kirti-yadav",
-                "branch": "ECE"
+                "branch": "ECE",
+                "verified": True,
+                "completion_percent": 93
             },
             {
                 "id": 9,
@@ -116,7 +132,9 @@ def get_demo_data():
                 "phone": "+91-9797976767",
                 "skills": ["LLM Embeddings", "Vector Databases", "Semantic Search"],
                 "linkedin": "https://linkedin.com/in/raghav-agrawal",
-                "branch": "AI/ML"
+                "branch": "AI/ML",
+                "verified": True,
+                "completion_percent": 98
             },
             {
                 "id": 10,
@@ -129,7 +147,9 @@ def get_demo_data():
                 "phone": "+91-9654321876",
                 "skills": ["Full Stack", "Product Design", "React"],
                 "linkedin": "https://linkedin.com/in/gurhans-grover",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": False,
+                "completion_percent": 72
             },
             {
                 "id": 11,
@@ -142,7 +162,9 @@ def get_demo_data():
                 "phone": "+91-9005001001",
                 "skills": ["Java", "Spring Boot", "REST APIs"],
                 "linkedin": "https://linkedin.com/in/aarav-mehta",
-                "branch": "IT"
+                "branch": "IT",
+                "verified": True,
+                "completion_percent": 87
             },
             {
                 "id": 12,
@@ -155,7 +177,9 @@ def get_demo_data():
                 "phone": "+91-9876123450",
                 "skills": ["SQL", "Power BI", "Python"],
                 "linkedin": "https://linkedin.com/in/tanisha-verma",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": False,
+                "completion_percent": 74
             },
             {
                 "id": 13,
@@ -168,7 +192,9 @@ def get_demo_data():
                 "phone": "+91-9002345678",
                 "skills": ["Node.js", "MongoDB", "Docker"],
                 "linkedin": "https://linkedin.com/in/yash-rajput",
-                "branch": "IT"
+                "branch": "IT",
+                "verified": True,
+                "completion_percent": 89
             },
             {
                 "id": 14,
@@ -181,7 +207,9 @@ def get_demo_data():
                 "phone": "+91-9877001122",
                 "skills": ["Solidity", "Smart Contracts", "DeFi"],
                 "linkedin": "https://linkedin.com/in/mehul-jain",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": False,
+                "completion_percent": 69
             },
             {
                 "id": 15,
@@ -194,7 +222,9 @@ def get_demo_data():
                 "phone": "+91-9091332211",
                 "skills": ["Product Strategy", "AI UX", "Analytics"],
                 "linkedin": "https://linkedin.com/in/simran-kaur",
-                "branch": "AI/ML"
+                "branch": "AI/ML",
+                "verified": True,
+                "completion_percent": 94
             },
             {
                 "id": 16,
@@ -207,7 +237,9 @@ def get_demo_data():
                 "phone": "+91-8800554433",
                 "skills": ["Pen Testing", "SIEM", "Network Security"],
                 "linkedin": "https://linkedin.com/in/devansh-saxena",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": False,
+                "completion_percent": 77
             },
             {
                 "id": 17,
@@ -220,7 +252,9 @@ def get_demo_data():
                 "phone": "+91-7001239988",
                 "skills": ["React", "Next.js", "UI/UX"],
                 "linkedin": "https://linkedin.com/in/ishita-sharma",
-                "branch": "IT"
+                "branch": "IT",
+                "verified": True,
+                "completion_percent": 91
             },
             {
                 "id": 18,
@@ -233,7 +267,9 @@ def get_demo_data():
                 "phone": "+91-7888991122",
                 "skills": ["Robotics", "Hardware Design", "AI"],
                 "linkedin": "https://linkedin.com/in/aditya-chauhan",
-                "branch": "ECE"
+                "branch": "ECE",
+                "verified": True,
+                "completion_percent": 96
             },
             {
                 "id": 19,
@@ -246,7 +282,9 @@ def get_demo_data():
                 "phone": "+91-7099775533",
                 "skills": ["ML", "Python", "Computer Vision"],
                 "linkedin": "https://linkedin.com/in/ritika-malhotra",
-                "branch": "AI/ML"
+                "branch": "AI/ML",
+                "verified": False,
+                "completion_percent": 83
             },
             {
                 "id": 20,
@@ -259,7 +297,9 @@ def get_demo_data():
                 "phone": "+91-7999882211",
                 "skills": ["Java", "Kubernetes", "Cloud"],
                 "linkedin": "https://linkedin.com/in/harsh-tandon",
-                "branch": "CSE"
+                "branch": "CSE",
+                "verified": True,
+                "completion_percent": 88
             }
         ]
     }

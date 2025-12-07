@@ -1,18 +1,22 @@
 import sys, os
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))  
 
 from fastapi import APIRouter
-from demo_data.alumni_data import get_demo_data
+from utility.data_retireve import get_current_alumni_data
 
 router = APIRouter()
 
 @router.get("/analytics/location")
 def get_company_distribution():
-    data = get_demo_data()          
-    alumni = data["alumni"]         
+    data = get_current_alumni_data()          
+    alumni = data.get("data", [])
     location_counts = {}
     for person in alumni:
-        location = person.get("location", "Unknown")
+        location_data = person.get("profileDetails", {}).get("location", {})
+        if isinstance(location_data, dict):
+            location = f"{location_data.get('city', '')} {location_data.get('state', '')}" .strip() or "Unknown"
+        else:
+            location = str(location_data) if location_data else "Unknown"
         location_counts[location] = location_counts.get(location, 0) + 1
 
     response = [

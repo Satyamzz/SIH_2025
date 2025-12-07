@@ -1,0 +1,353 @@
+{
+  "info": {
+    "name": "SIH 2025 - Alumni Analytics API",
+    "description": "Complete API collection for alumni analytics, recommendations, and skill extraction",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Analytics",
+      "item": [
+        {
+          "name": "Get Company Distribution",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/company",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "company"]
+            },
+            "description": "Get the distribution of alumni across companies"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Skills Distribution",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/skills",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "skills"]
+            },
+            "description": "Get the distribution of skills among alumni"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Location Distribution",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/location",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "location"]
+            },
+            "description": "Get the distribution of alumni across locations"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Passout Year Distribution",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/passout",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "passout"]
+            },
+            "description": "Get the distribution of alumni by graduation year"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Branch Distribution",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/branch",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "branch"]
+            },
+            "description": "Get the distribution of alumni by branch"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Account Completion Stats",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/account_completion",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "account_completion"]
+            },
+            "description": "Get account completion statistics"
+          },
+          "response": []
+        },
+        {
+          "name": "Get Verification Status",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/verification_status",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "verification_status"]
+            },
+            "description": "Get overall verification status of alumni"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Recommendations",
+      "item": [
+        {
+          "name": "Recommend Alumni by Skills (Embeddings)",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"skills\": [\"Python\", \"Machine Learning\", \"Data Science\"]\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/recommend/alum_emb",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["recommend", "alum_emb"]
+            },
+            "description": "Get alumni recommendations based on skill embeddings similarity"
+          },
+          "response": []
+        },
+        {
+          "name": "Recommend Skills to Learn",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"stu\": \"STU001\",\n  \"alu\": \"id_of_alumni\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/recommend/skill",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["recommend", "skill"]
+            },
+            "description": "Recommend skills for a student based on alumni mentor"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Skill Extraction",
+      "item": [
+        {
+          "name": "Extract Skills from Description",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"desc\": \"Experienced in Python, Django, and REST API development. Proficient in Docker and Kubernetes for DevOps.\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/ner_skill",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["ner_skill"]
+            },
+            "description": "Extract skills from a text description using NER model"
+          },
+          "response": []
+        }
+      ]
+    },
+    {
+      "name": "Filters (Deprecated)",
+      "item": [
+        {
+          "name": "Filter by Skills",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"skills\": [\"Python\", \"Django\"]\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/filter/skills",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["filter", "skills"]
+            },
+            "description": "Filter alumni by skills (Deprecated - use recommendations instead)"
+          },
+          "response": []
+        },
+        {
+          "name": "Filter by Company",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"company\": \"Google\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/filter/company",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["filter", "company"]
+            },
+            "description": "Filter alumni by company (Deprecated)"
+          },
+          "response": []
+        },
+        {
+          "name": "Filter by Graduation Year",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"year\": 2020\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/filter/graduation_year",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["filter", "graduation_year"]
+            },
+            "description": "Filter alumni by graduation year (Deprecated)"
+          },
+          "response": []
+        },
+        {
+          "name": "Filter by Location",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"location\": \"Bengaluru\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/filter/location",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["filter", "location"]
+            },
+            "description": "Filter alumni by job location (Deprecated)"
+          },
+          "response": []
+        },
+        {
+          "name": "Check Alumni Verification",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"alumni_id\": 1\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/alumni/check_verified",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["alumni", "check_verified"]
+            },
+            "description": "Check if an alumni is verified (Deprecated)"
+          },
+          "response": []
+        }
+      ]
+    }
+  ],
+  "variable": [
+    {
+      "key": "base_url",
+      "value": "http://localhost:8000",
+      "type": "string"
+    },
+    {
+      "key": "api_port",
+      "value": "8000",
+      "type": "string"
+    }
+  ]
+}

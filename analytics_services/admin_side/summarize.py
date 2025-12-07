@@ -3,20 +3,19 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")
 
 from fastapi import  APIRouter
 from collections import Counter
-from demo_data.alumni_data import  get_demo_data
+from utility.data_retireve import get_current_alumni_data
 router=APIRouter()
 
 
-#may have to change a bit when adding mongo db collecation
 @router.get("/analytics/summary")
 def alumni_analytics():
-    alumni_data = get_demo_data()       # returns dict
-    data = alumni_data["alumni"]        # list of alumni dicts
+    alumni_data = get_current_alumni_data()      
+    data = alumni_data["data"]["profileDetails"]       
 
     total = len(data)
-    year_count = Counter(a.get("graduation_year") for a in data)
-    branch_count = Counter(a.get("branch") for a in data)
-    company_count = Counter(a.get("company") for a in data).most_common(10)
+    year_count = Counter(a.get("graduationYear") for a in data)
+    branch_count = Counter(a.get("department") for a in data)
+    company_count = Counter(a.get("currentCompany") for a in data).most_common(10)
 
     all_skills = []
     for a in data:
