@@ -14,6 +14,7 @@ from ner_model.ner_main import router as skill_extract
 from analytics_services.admin_side.to_not_be_used.check_verification import router as cv
 from analytics_services.admin_side.total_verified import router as tv
 from analytics_services.admin_side.completion_stats import router as completion_stats
+from recommendation_system.alumni_network import router as alum_rec
 app = FastAPI()
 
 # include the router
@@ -32,3 +33,4 @@ app.include_router(skill_extract)
 app.include_router(cv)
 app.include_router(tv)
 app.include_router(completion_stats)
+app.include_router(alum_rec)

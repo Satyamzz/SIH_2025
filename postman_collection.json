@@ -119,6 +119,22 @@
             "description": "Get overall verification status of alumni"
           },
           "response": []
+        },
+        {
+          "name": "Get Alumni Summary",
+          "request": {
+            "method": "GET",
+            "header": [],
+            "url": {
+              "raw": "http://localhost:8000/analytics/summary",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["analytics", "summary"]
+            },
+            "description": "Get summary of alumni data"
+          },
+          "response": []
         }
       ]
     },
@@ -151,6 +167,31 @@
           "response": []
         },
         {
+          "name": "Recommend Batchmates",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"alumni_id\": \"507f1f77bcf86cd799439011\"\n}"
+            },
+            "url": {
+              "raw": "http://localhost:8000/recommend/batchmates",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8000",
+              "path": ["recommend", "batchmates"]
+            },
+            "description": "Get batchmates recommendations for an alumni"
+          },
+          "response": []
+        },
+        {
           "name": "Recommend Skills to Learn",
           "request": {
             "method": "POST",
@@ -162,7 +203,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"stu\": \"STU001\",\n  \"alu\": \"id_of_alumni\"\n}"
+              "raw": "{\n  \"stu\": \"STU001\",\n  \"alu\": \"507f1f77bcf86cd799439011\"\n}"
             },
             "url": {
               "raw": "http://localhost:8000/recommend/skill",
@@ -222,7 +263,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"skills\": [\"Python\", \"Django\"]\n}"
+              "raw": "{\n  \"skill\": \"Python\"\n}"
             },
             "url": {
               "raw": "http://localhost:8000/filter/skills",
@@ -322,7 +363,7 @@
             ],
             "body": {
               "mode": "raw",
-              "raw": "{\n  \"alumni_id\": 1\n}"
+              "raw": "{\n  \"id\": \"507f1f77bcf86cd799439011\"\n}"
             },
             "url": {
               "raw": "http://localhost:8000/alumni/check_verified",
