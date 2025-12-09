@@ -11,7 +11,8 @@ def get_company_distribution():
     alumni = data.get("data", [])
     company_counts = {}
     for person in alumni:
-        company = person.get("profileDetails", {}).get("currentCompany", "Unknown")
+        if not person: continue
+        company = person.get("company", "Unknown")
         company_counts[company] = company_counts.get(company, 0) + 1
 
     response = [

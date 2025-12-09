@@ -1,0 +1,11 @@
+{
+  "_id": {
+    "$oid": "6936c5ac5b5add60f362108b"
+  },
+  "userid": "user_001",
+  "__v": 0,
+  "address": "5pd4pijues3cfxkfyykgchkjmw75rkcdtspt3eh27rqj",
+  "createdAt": {
+    "$date": "2025-12-08T12:33:48.969Z"
+  }
+}

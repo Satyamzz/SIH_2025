@@ -19,8 +19,7 @@ def account_completion_analytics():
         return {"error": "No alumni data found"}
 
     completion_values = [
-        safe_percent(a.get("profileDetails",{}).get("profileCompletion"))
-        for a in data
+        safe_percent(a.get("completion_percent")) for a in data if a
     ]
 
     total = len(completion_values)
@@ -35,7 +34,7 @@ def account_completion_analytics():
 
     sorted_alumni = sorted(
         data,
-        key=lambda x: safe_percent(x.get("profileDetails", {}).get("profileCompletion")),
+        key=lambda x: safe_percent.get("profileCompletion"),
         reverse=True
     )
 

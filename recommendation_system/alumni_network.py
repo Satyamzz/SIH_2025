@@ -36,7 +36,7 @@ def build_match_reason(year_diff, target_year, is_same_dept, dept):
     if year_diff == 0:
         reasons.append(f"Same Batch ({target_year})")
     elif year_diff <= 2:
-        reasons.append(f"{year_diff} year(s) gap")
+        reasons.append(f"{year_diff} year gap")
     else:
         reasons.append(f"Graduated {target_year}")
     
@@ -46,7 +46,7 @@ def build_match_reason(year_diff, target_year, is_same_dept, dept):
     return ", ".join(reasons)
 
 def find_alumni_by_id(alumni_list, user_id):
-    """Find alumni by ID"""
+   
     for alumni in alumni_list:
         if alumni.get("_id") == user_id:
             return alumni
@@ -99,12 +99,10 @@ def recommend_for_travel(request: TravelRequest):
         if not profile or not isinstance(profile, dict):
             continue
         
-        # Check if peer is in the travel city
         peer_city = get_city(profile.get("location"))
         if peer_city != travel_city:
             continue
         
-        # Get peer details
         peer_year = profile.get("graduationYear")
         if peer_year is None:
             continue
@@ -113,7 +111,6 @@ def recommend_for_travel(request: TravelRequest):
         year_diff = abs(target_year - peer_year)
         is_same_dept = (peer_dept == target_dept)
         
-        # Build recommendation
         recommendations.append({
             "id": peer.get("_id"),
             "name": peer.get("name"),
@@ -130,11 +127,10 @@ def recommend_for_travel(request: TravelRequest):
             "is_same_dept": is_same_dept
         })
     
-    # Sort: batchmates first (±2 years), then same dept, then by year
     recommendations.sort(key=lambda x: (
-        x['year_diff'] > 2,  # Batchmates (within 2 years) first
-        not x['is_same_dept'],  # Same department first
-        x['year_diff']  # Closer years first
+        x['year_diff'] > 2,  
+        not x['is_same_dept'],  
+        x['year_diff'] 
     ))
     
     return {

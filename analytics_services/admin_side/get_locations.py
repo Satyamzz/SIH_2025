@@ -12,7 +12,8 @@ def get_company_distribution():
     alumni = data.get("data", [])
     location_counts = {}
     for person in alumni:
-        location_data = person.get("profileDetails", {}).get("location", {})
+        if not person: continue # Skip None
+        location_data = person.get("location", {})
         if isinstance(location_data, dict):
             location = f"{location_data.get('city', '')} {location_data.get('state', '')}" .strip() or "Unknown"
         else:

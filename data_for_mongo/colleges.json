@@ -1,0 +1,191 @@
+[
+  {
+    "_id": { "$oid": "6932e7f5f67e580b8256a180" },
+    "name": "Miranda House",
+    "code": "MH-DU",
+    "email": "principal@mirandahouse.ac.in",
+    "phone": "+91-11-27666983",
+    "website": "https://www.mirandahouse.ac.in",
+    "address": {
+      "street": "University Enclave, North Campus",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110007",
+      "country": "India"
+    },
+    "establishedYear": 1948,
+    "type": "government",
+    "accreditation": "NAAC A++",
+    "departments": [
+      {
+        "name": "Physics",
+        "code": "PHY",
+        "hod": "Dr. Bilasini Devi",
+        "_id": { "$oid": "6932e7f5f67e580b8256a181" }
+      },
+      {
+        "name": "Chemistry",
+        "code": "CHEM",
+        "hod": "Dr. Amrita T Sheikh",
+        "_id": { "$oid": "6932e7f5f67e580b8256a182" }
+      },
+      {
+        "name": "Botany",
+        "code": "BOT",
+        "hod": "Dr. Janaki Subramanyan",
+        "_id": { "$oid": "6932e7f5f67e580b8256a183" }
+      }
+    ],
+    "degrees": [
+      {
+        "name": "B.Sc. (Hons) Physics",
+        "code": "BSC-PHY",
+        "_id": { "$oid": "6932e7f5f67e580b8256a184" }
+      },
+      {
+        "name": "B.A. (Hons) English",
+        "code": "BA-ENG",
+        "_id": { "$oid": "6932e7f5f67e580b8256a185" }
+      }
+    ],
+    "images": [],
+    "university": { "$oid": "6932e7f5f67e580b8256a174" },
+    "totalAlumni": 0,
+    "verifiedAlumni": 0,
+    "totalStudents": 0,
+    "settings": {
+      "theme": "default",
+      "notifications": true
+    },
+    "isActive": true,
+    "createdAt": { "$date": "2025-12-06T09:00:00.000Z" },
+    "updatedAt": { "$date": "2025-12-06T09:00:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6932e7f5f67e580b8256a190" },
+    "name": "Hindu College",
+    "code": "HC-DU",
+    "email": "principal@hinducollege.org",
+    "phone": "+91-11-27667184",
+    "website": "https://hinducollege.ac.in",
+    "address": {
+      "street": "Sudhir Bose Marg, North Campus",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110007",
+      "country": "India"
+    },
+    "establishedYear": 1899,
+    "type": "government",
+    "accreditation": "NAAC A+",
+    "departments": [
+      {
+        "name": "Statistics",
+        "code": "STAT",
+        "hod": "Dr. Priyanka Aggarwal",
+        "_id": { "$oid": "6932e7f5f67e580b8256a191" }
+      },
+      {
+        "name": "Economics",
+        "code": "ECO",
+        "hod": "Dr. Chandan Singha",
+        "_id": { "$oid": "6932e7f5f67e580b8256a192" }
+      },
+      {
+        "name": "Political Science",
+        "code": "POL",
+        "hod": "Dr. Seema Das",
+        "_id": { "$oid": "6932e7f5f67e580b8256a193" }
+      }
+    ],
+    "degrees": [
+      {
+        "name": "B.A. (Hons) Economics",
+        "code": "BA-ECO",
+        "_id": { "$oid": "6932e7f5f67e580b8256a194" }
+      },
+      {
+        "name": "B.Sc. (Hons) Statistics",
+        "code": "BSC-STAT",
+        "_id": { "$oid": "6932e7f5f67e580b8256a195" }
+      }
+    ],
+    "images": [],
+    "university": { "$oid": "6932e7f5f67e580b8256a174" },
+    "totalAlumni": 0,
+    "verifiedAlumni": 0,
+    "totalStudents": 0,
+    "settings": {
+      "theme": "dark",
+      "notifications": true
+    },
+    "isActive": true,
+    "createdAt": { "$date": "2025-12-07T10:15:00.000Z" },
+    "updatedAt": { "$date": "2025-12-07T10:15:00.000Z" },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6932e7f5f67e580b8256a200" },
+    "name": "St. Stephen's College",
+    "code": "SSC-DU",
+    "email": "ssc@ststephens.edu",
+    "phone": "+91-11-27667200",
+    "website": "https://www.ststephens.edu",
+    "address": {
+      "street": "Sudhir Bose Marg, North Campus",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "zip": "110007",
+      "country": "India"
+    },
+    "establishedYear": 1881,
+    "type": "government_aided",
+    "accreditation": "NAAC A",
+    "departments": [
+      {
+        "name": "English",
+        "code": "ENG",
+        "hod": "Dr. Karen Gabriel",
+        "_id": { "$oid": "6932e7f5f67e580b8256a201" }
+      },
+      {
+        "name": "History",
+        "code": "HIST",
+        "hod": "Dr. Aditya Pratap Deo",
+        "_id": { "$oid": "6932e7f5f67e580b8256a202" }
+      },
+      {
+        "name": "Mathematics",
+        "code": "MATH",
+        "hod": "Dr. Sonia Davar",
+        "_id": { "$oid": "6932e7f5f67e580b8256a203" }
+      }
+    ],
+    "degrees": [
+      {
+        "name": "B.A. (Hons) History",
+        "code": "BA-HIST",
+        "_id": { "$oid": "6932e7f5f67e580b8256a204" }
+      },
+      {
+        "name": "B.Sc. (Hons) Mathematics",
+        "code": "BSC-MATH",
+        "_id": { "$oid": "6932e7f5f67e580b8256a205" }
+      }
+    ],
+    "images": [],
+    "university": { "$oid": "6932e7f5f67e580b8256a174" },
+    "totalAlumni": 0,
+    "verifiedAlumni": 0,
+    "totalStudents": 0,
+    "settings": {
+      "theme": "classic",
+      "notifications": true
+    },
+    "isActive": true,
+    "createdAt": { "$date": "2025-12-08T11:00:00.000Z" },
+    "updatedAt": { "$date": "2025-12-08T11:00:00.000Z" },
+    "__v": 0
+  }
+]

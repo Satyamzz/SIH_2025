@@ -11,7 +11,8 @@ def get_branch_distribution():
     alumni = data.get("data", [])
     branch_counts = {}
     for person in alumni:
-        branch = person.get("profileDetails", {}).get("department", "Unknown")
+        if not person: continue # Skip None records
+        branch = person.get("branch", "Unknown")
         branch_counts[branch] = branch_counts.get(branch, 0) + 1
 
     response = [

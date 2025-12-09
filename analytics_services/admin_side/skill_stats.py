@@ -11,7 +11,8 @@ def skillfilter():
     skill_count={}
     alumni=data.get("data",[])
     for person in alumni:
-        for sk in person.get("profileDetails", {}).get("skills", []):
+        if not person: continue
+        for sk in person.get("skills", []):
             if(sk not in skill_count):
                 skill_count[sk]=1
             else:

@@ -20,14 +20,14 @@ if not hf_token:
 
 hf_client = InferenceClient(model="sentence-transformers/all-MiniLM-L6-v2", token=hf_token)
 
-json_path = os.path.join(os.path.dirname(__file__), "..", "demo_data", "alumni_skill_embeddings.json")
+json_path = os.path.join(os.path.dirname(__file__),"alumni_embeddings.json")
 
 try:
     with open(json_path, 'r') as f:
         skill_embeddings_data = json.load(f)
     
-    alumni_matrix = np.array([item["skill_embedding"] for item in skill_embeddings_data["alumni"]])
-    alumni_ids = [item.get("id", "unknown") for item in skill_embeddings_data["alumni"]]
+    alumni_matrix = np.array([item["embedding"] for item in skill_embeddings_data])
+    alumni_ids = [item.get("userId", "unknown") for item in skill_embeddings_data]
     
     print(f"Loaded {len(alumni_ids)} alumni embeddings into memory.")
 

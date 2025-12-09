@@ -9,7 +9,7 @@ from analytics_services.admin_side.get_locations import router as location_route
 from analytics_services.admin_side.to_not_be_used.filter_companies import router as filter_company_router
 from analytics_services.admin_side.get_branch_distribution import router as batch_dist
 from analytics_services.admin_side.summarize import router as summary
-from recommendation_system.skill_rec_emb import router as skill_recommendation
+from recommendation_system.Main_recommendation import router as skill_recommendation
 from ner_model.ner_main import router as skill_extract
 from analytics_services.admin_side.to_not_be_used.check_verification import router as cv
 from analytics_services.admin_side.total_verified import router as tv

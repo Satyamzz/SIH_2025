@@ -1,0 +1,73 @@
+{
+
+  "_id": {
+
+    "$oid": "6932e7f5f67e580b8256a174"
+
+  },
+
+  "name": "Delhi University",
+
+  "code": "DU",
+
+  "email": "registrar@du.ac.in",
+
+  "phone": "+91-11-27667853",
+
+  "website": "https://www.du.ac.in",
+
+  "address": {
+
+    "street": "University Road",
+
+    "city": "Delhi",
+
+    "state": "Delhi",
+
+    "country": "India",
+
+    "pincode": "110007"
+
+  },
+
+  "establishedYear": 1922,
+
+  "type": "central",
+
+  "accreditation": "NAAC A++",
+
+  "naacGrade": "A++",
+
+  "colleges": [
+
+    {
+
+      "$oid": "6932e7f5f67e580b8256a177"
+
+    }
+
+  ],
+
+  "totalColleges": 1,
+
+  "totalAlumni": 0,
+
+  "totalStudents": 0,
+
+  "isActive": true,
+
+  "createdAt": {
+
+    "$date": "2025-12-05T14:11:01.752Z"
+
+  },
+
+  "updatedAt": {
+
+    "$date": "2025-12-05T14:11:01.752Z"
+
+  },
+
+  "__v": 1
+
+} 

@@ -1,0 +1,23 @@
+{
+  "_id": {
+    "$oid": "6937643c3b39b4672af9c1bf"
+  },
+  "mentorId": {
+    "$oid": "693764383b39b4672af9c19c"
+  },
+  "menteeId": {
+    "$oid": "693764383b39b4672af9c1a2"
+  },
+  "message": "Please mentor me",
+  "topics": [
+    "React"
+  ],
+  "status": "accepted",
+  "requestedAt": {
+    "$date": "2025-12-08T23:50:20.120Z"
+  },
+  "__v": 0,
+  "respondedAt": {
+    "$date": "2025-12-08T23:50:20.754Z"
+  }
+}

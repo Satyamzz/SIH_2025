@@ -12,7 +12,7 @@ def verification_summary():
     alumni = data.get("data", [])
 
     total = len(alumni)
-    verified_count = sum(1 for a in alumni if a.get("verified") == True)
+    verified_count = sum(1 for a in alumni if a and a.get("verified") == True)
     unverified_count = total - verified_count
     verified_percent = round((verified_count / total) * 100, 2) if total > 0 else 0
     unverified_percent = round((unverified_count / total) * 100, 2) if total > 0 else 0

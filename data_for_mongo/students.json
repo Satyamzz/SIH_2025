@@ -1,0 +1,632 @@
+[
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119401" },
+    "userId": { "$oid": "6934f9a60f6081c361119301" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459101",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119402" },
+    "userId": { "$oid": "6934f9a60f6081c361119302" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459102",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Information Technology",
+      "entryDate": { "$date": "2024-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119403" },
+    "userId": { "$oid": "6934f9a60f6081c361119303" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459103",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Electronics & Communication",
+      "entryDate": { "$date": "2023-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119404" },
+    "userId": { "$oid": "6934f9a60f6081c361119304" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459104",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2022-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 4
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119405" },
+    "userId": { "$oid": "6934f9a60f6081c361119305" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459105",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Physics",
+      "entryDate": { "$date": "2025-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119406" },
+    "userId": { "$oid": "6934f9a60f6081c361119306" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459106",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "English",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119407" },
+    "userId": { "$oid": "6934f9a60f6081c361119307" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459107",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Mechanical Engineering",
+      "entryDate": { "$date": "2023-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119408" },
+    "userId": { "$oid": "6934f9a60f6081c361119308" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459108",
+    "academic": {
+      "degreeType": "M.Tech",
+      "degreeName": "Data Science",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119409" },
+    "userId": { "$oid": "6934f9a60f6081c361119309" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459109",
+    "academic": {
+      "degreeType": "B.Com",
+      "degreeName": "Commerce",
+      "entryDate": { "$date": "2023-07-20T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119410" },
+    "userId": { "$oid": "6934f9a60f6081c361119310" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459110",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Mathematics",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119411" },
+    "userId": { "$oid": "6934f9a60f6081c361119311" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459111",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Information Technology",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119412" },
+    "userId": { "$oid": "6934f9a60f6081c361119312" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459112",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "Economics",
+      "entryDate": { "$date": "2022-07-15T09:00:00.000Z" },
+      "isCompleted": true,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119413" },
+    "userId": { "$oid": "6934f9a60f6081c361119313" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459113",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Civil Engineering",
+      "entryDate": { "$date": "2024-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119414" },
+    "userId": { "$oid": "6934f9a60f6081c361119314" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459114",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Chemistry",
+      "entryDate": { "$date": "2025-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119415" },
+    "userId": { "$oid": "6934f9a60f6081c361119315" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459115",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Electrical Engineering",
+      "entryDate": { "$date": "2023-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119416" },
+    "userId": { "$oid": "6934f9a60f6081c361119316" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459116",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "History",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119417" },
+    "userId": { "$oid": "6934f9a60f6081c361119317" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459117",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2022-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 4
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119418" },
+    "userId": { "$oid": "6934f9a60f6081c361119318" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459118",
+    "academic": {
+      "degreeType": "M.A",
+      "degreeName": "Political Science",
+      "entryDate": { "$date": "2025-07-20T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119419" },
+    "userId": { "$oid": "6934f9a60f6081c361119319" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459119",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Electronics & Communication",
+      "entryDate": { "$date": "2024-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119420" },
+    "userId": { "$oid": "6934f9a60f6081c361119320" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459120",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Botany",
+      "entryDate": { "$date": "2023-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119421" },
+    "userId": { "$oid": "6934f9a60f6081c361119321" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459121",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Information Technology",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119422" },
+    "userId": { "$oid": "6934f9a60f6081c361119322" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459122",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2024-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119423" },
+    "userId": { "$oid": "6934f9a60f6081c361119323" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459123",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "Sociology",
+      "entryDate": { "$date": "2023-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119424" },
+    "userId": { "$oid": "6934f9a60f6081c361119324" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459124",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Biotechnology",
+      "entryDate": { "$date": "2022-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 4
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119425" },
+    "userId": { "$oid": "6934f9a60f6081c361119325" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459125",
+    "academic": {
+      "degreeType": "M.Sc",
+      "degreeName": "Physics",
+      "entryDate": { "$date": "2025-07-20T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119426" },
+    "userId": { "$oid": "6934f9a60f6081c361119326" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459126",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2023-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119427" },
+    "userId": { "$oid": "6934f9a60f6081c361119327" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459127",
+    "academic": {
+      "degreeType": "B.Com",
+      "degreeName": "Honors",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119428" },
+    "userId": { "$oid": "6934f9a60f6081c361119328" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459128",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Electronics & Communication",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119429" },
+    "userId": { "$oid": "6934f9a60f6081c361119329" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459129",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Statistics",
+      "entryDate": { "$date": "2023-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119430" },
+    "userId": { "$oid": "6934f9a60f6081c361119330" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459130",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Information Technology",
+      "entryDate": { "$date": "2022-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 4
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119431" },
+    "userId": { "$oid": "6934f9a60f6081c361119331" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459131",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "Psychology",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119432" },
+    "userId": { "$oid": "6934f9a60f6081c361119332" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459132",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119433" },
+    "userId": { "$oid": "6934f9a60f6081c361119333" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459133",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Zoology",
+      "entryDate": { "$date": "2023-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119434" },
+    "userId": { "$oid": "6934f9a60f6081c361119334" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459134",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Civil Engineering",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119435" },
+    "userId": { "$oid": "6934f9a60f6081c361119335" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459135",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "Philosophy",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119436" },
+    "userId": { "$oid": "6934f9a60f6081c361119336" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459136",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Information Technology",
+      "entryDate": { "$date": "2023-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119437" },
+    "userId": { "$oid": "6934f9a60f6081c361119337" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459137",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Electronics & Communication",
+      "entryDate": { "$date": "2022-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 4
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119438" },
+    "userId": { "$oid": "6934f9a60f6081c361119338" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459138",
+    "academic": {
+      "degreeType": "M.Sc",
+      "degreeName": "Mathematics",
+      "entryDate": { "$date": "2025-07-20T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119439" },
+    "userId": { "$oid": "6934f9a60f6081c361119339" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459139",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2024-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119440" },
+    "userId": { "$oid": "6934f9a60f6081c361119340" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459140",
+    "academic": {
+      "degreeType": "B.Sc",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2023-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119441" },
+    "userId": { "$oid": "6934f9a60f6081c361119341" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459141",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Electrical Engineering",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119442" },
+    "userId": { "$oid": "6934f9a60f6081c361119342" },
+    "adminId": "college-adm-02",
+    "student_id": "S17650794629459142",
+    "academic": {
+      "degreeType": "B.A",
+      "degreeName": "English",
+      "entryDate": { "$date": "2024-07-15T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 2
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119443" },
+    "userId": { "$oid": "6934f9a60f6081c361119343" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459143",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Information Technology",
+      "entryDate": { "$date": "2022-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 4
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119444" },
+    "userId": { "$oid": "6934f9a60f6081c361119344" },
+    "adminId": "college-adm-01",
+    "student_id": "S17650794629459144",
+    "academic": {
+      "degreeType": "M.Tech",
+      "degreeName": "VLSI Design",
+      "entryDate": { "$date": "2025-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 1
+    },
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "6934f9a60f6081c361119445" },
+    "userId": { "$oid": "6934f9a60f6081c361119345" },
+    "adminId": "college-adm-03",
+    "student_id": "S17650794629459145",
+    "academic": {
+      "degreeType": "B.Tech",
+      "degreeName": "Computer Science",
+      "entryDate": { "$date": "2023-08-01T09:00:00.000Z" },
+      "isCompleted": false,
+      "currentYear": 3
+    },
+    "__v": 0
+  }
+]

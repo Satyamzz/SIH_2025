@@ -10,12 +10,13 @@ router=APIRouter()
 @router.get("/analytics/summary")
 def alumni_analytics():
     alumni_data = get_current_alumni_data()      
-    data = alumni_data["data"]["profileDetails"]       
+    data = alumni_data["data"]      
 
+    data = [a for a in data if a] # Filter out None
     total = len(data)
     year_count = Counter(a.get("graduationYear") for a in data)
-    branch_count = Counter(a.get("department") for a in data)
-    company_count = Counter(a.get("currentCompany") for a in data).most_common(10)
+    branch_count = Counter(a.get("branch") for a in data)
+    company_count = Counter(a.get("company") for a in data).most_common(10)
 
     all_skills = []
     for a in data:
